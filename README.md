@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Alen767&style=flat-square&color=orange)
 
-![Alen767 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alen767&show_icons=true&theme=highcontrast)
+[![Alen767 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alen767)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Alen767/Alen767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
