@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Jokes 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://camo.githubusercontent.com/e3df64a331dd87515c1ab1ceced4494065f0edca285eb596024b194137db61e0/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f7468656d653d677261797768697465" alt="Jokes Card" />
+
