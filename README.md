@@ -1,5 +1,5 @@
 # Hi there, I'm [Alen]() ![](👋) 
-### Computer science student, IT news writer from Russia 🇷🇺
+### My status on github
 
 ![](https://komarev.com/ghpvc/?username=Alen767)
 [![Alen767 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alen767)](https://github.com/Alen767)
