@@ -1,7 +1,8 @@
-# Hi there, I'm [Alen]() ![](👋) 
+# 👋 Hi there, I'm Alen() ![]() 
 ### My status on github
 
-![](https://komarev.com/ghpvc/?username=Alen767)
+    ![](https://komarev.com/ghpvc/?username=Alen767)
+
 [![Alen767 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alen767)](https://github.com/Alen767)
 <!--
 **Alen767/Alen767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
