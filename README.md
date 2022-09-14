@@ -1,4 +1,4 @@
-# Hi there, I'm [Alen]() ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm [Alen]() ![](👋) 
 ### Computer science student, IT news writer from Russia 🇷🇺
 
 ![](https://komarev.com/ghpvc/?username=Alen767)
